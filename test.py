@@ -2,7 +2,7 @@
 import os
 import streamlit as st
 
-os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+os.environ["OPENAI_API_KEY"] = "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"
 
 st.title("Tweet Generator - V 🐦")
 
