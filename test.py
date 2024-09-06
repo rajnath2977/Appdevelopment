@@ -1,5 +1,5 @@
 #pip install streamlit
-!pip install -qU langchain langchain-openai langchain-google-genai
+#!pip install -qU langchain langchain-openai langchain-google-genai
 import os
 import streamlit as st
 
