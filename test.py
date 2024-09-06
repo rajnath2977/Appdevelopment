@@ -1,4 +1,5 @@
-#pip install streamlit
+pip install streamlit
+pip install langchain
 import os
 import streamlit as st
 
